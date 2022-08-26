@@ -1,4 +1,4 @@
-import jxl.* // import Java Excel API library
+import jxl.*
 def TestCase = context.testCase
 def FilePath = "C:\\TestCenter\\Data.xls"
 def count
